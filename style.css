@@ -1,1 +1,27 @@
-body { background-color: #151C30 }
+body {
+ margin: 0;
+ background-color: #151C30
+  }
+
+
+.mainlogo {
+ margin-top: 37px;
+ margin-left: 41px;
+}
+
+.guides {
+	margin-left: 838px;
+	margin-top: 26px;
+
+
+}
+
+.faq {
+	margin-top: 40px;
+	margin-left: 1504px;	
+}
+
+.line {
+	width: 100%;
+	margin-top: 134px;
+}
